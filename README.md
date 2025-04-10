@@ -2,7 +2,7 @@ Sistema Educativo - Microservicios
 
 Este proyecto implementa un sistema educativo distribuido utilizando una arquitectura de microservicios basada en Spring Boot, Spring Cloud y Docker. Incluye servicios para gestión de usuarios, asignaturas, matrículas, configuración centralizada, descubrimiento de servicios y seguridad con JWT.
 
-🔧 Tecnologías utilizadas
+Tecnologías utilizadas
 
 Java 17
 
